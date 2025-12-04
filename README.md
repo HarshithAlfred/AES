@@ -72,4 +72,5 @@ SJC Institute of Technology
 ---
 
 ## 📜 License
-MIT License (recommended)
+MIT License 
+
