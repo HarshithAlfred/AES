@@ -66,6 +66,7 @@ Runs on any browser: Chrome, Firefox, Edge, Brave, etc.
 - **Jagadish**  
 - **Mahesh**  
 - **Kaif**  
+- **Komal**
 - **Harshith**  
 SJC Institute of Technology
 
