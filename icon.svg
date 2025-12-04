@@ -1,0 +1,7 @@
+<!-- save as shield-aes.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Shield AES">
+  <title>Shield AES</title>
+  <path d="M32 4 L56 12 V28 C56 44 40 56 32 60 C24 56 8 44 8 28 V12 Z" fill="#002b1b"/>
+  <path d="M32 8 L50 14 V28 C50 42 36 52 32 54 C28 52 14 42 14 28 V14 Z" fill="#00ff99"/>
+  <text x="32" y="36" fill="#002b1b" font-family="Segoe UI, Roboto, sans-serif" font-weight="700" font-size="12" text-anchor="middle">AES</text>
+</svg>
